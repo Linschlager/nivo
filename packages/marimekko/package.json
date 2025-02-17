@@ -21,12 +21,12 @@
         "!dist/tsconfig.tsbuildinfo"
     ],
     "dependencies": {
-        "@nivo/axes": "workspace:*",
-        "@nivo/colors": "workspace:*",
-        "@nivo/core": "workspace:*",
-        "@nivo/legends": "workspace:*",
-        "@nivo/scales": "workspace:*",
-        "@nivo/tooltip": "workspace:*",
+        "@nivo/axes": "0.88.0",
+        "@nivo/colors": "0.88.0",
+        "@nivo/core": "0.88.0",
+        "@nivo/legends": "0.88.0",
+        "@nivo/scales": "0.88.0",
+        "@nivo/tooltip": "0.88.0",
         "@react-spring/web": "9.4.5 || ^9.7.2",
         "@types/d3-shape": "^3.1.6",
         "d3-shape": "^3.2.0",
